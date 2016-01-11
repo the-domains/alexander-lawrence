@@ -1,29 +1,41 @@
-name: Alexander Lawrence
-favicon: null
-layout_spectrum: 0.6771665855776519
-typography_spectrum: 0.6495756993535906
 title: Alexander Lawrence
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.3643272065091878
+  brandStrength: 0.7202037996612489
+  rhythmicContrast: 0.3065221218857914
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  brandStrength: 0.7202037996612489
-  lightness: 0.38813342386856675
-  saturation: 0.3643272065091878
-  rhythmicContrast: 0.3065221218857914
-purpose: []
+  lightness: 0.3881334238685668
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Alexander Lawrence
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6495756993535906
+layout_spectrum: 1
